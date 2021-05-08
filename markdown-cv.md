@@ -1,5 +1,7 @@
 # My Cv
 
+![Omar's Image](https://github.com/omarchouman/Git-Trial/blob/omar-chouman/omar.jpeg)
+
 ## Info
 
 * Name: Omar Chouman
@@ -10,7 +12,8 @@
 
 ## About Me
 
-#### Self-Taught , dynamic , highly motivated individual 
+#### Self-Taught , dynamic , highly motivated individual with a passion for learning and solving problems. Work in teams and individually driving quality and consistency through out all phases of software development projects. Partner with developers , analysts , QA and support engineers throughout the product lifecycle to produce high quality , user - friendly , scalable and bug free software.
+
 
 ## Education 
 
@@ -23,3 +26,9 @@
 1. Annual Robotics Competition 5
 
 ## Contact
+
+* Phone Number: +961 78890304
+
+* Email Address: omar.chouman0@gmail.com
+
+* My Portfolio: [Portfolio](https://omarchouman.github.io/)
